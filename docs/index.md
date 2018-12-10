@@ -12,5 +12,5 @@ un elenco:
 | 23  | 76  |
 | 21  | 67  |
 
-![GitHub image](img/github_image_2.jpg)
+![GitHub image](img/github_image_2.png)
 
